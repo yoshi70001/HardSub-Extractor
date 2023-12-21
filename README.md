@@ -1,0 +1,2 @@
+# HardSub-Extractor
+Subtitle extractor
